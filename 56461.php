@@ -7,10 +7,7 @@
  * Date: 2019/09/02
  * Time: 11:47
  */
+print("hello worldas");
 ?>
-<?php
-    print("hello worldas");
-?>
-
 
 <?php require '../fotter.php'; ?>
