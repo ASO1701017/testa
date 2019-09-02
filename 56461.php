@@ -8,5 +8,9 @@
  * Time: 11:47
  */
 ?>
+<?php
+    print("hello world");
+?>
+
 
 <?php require '../fotter.php'; ?>
